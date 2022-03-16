@@ -1,5 +1,5 @@
 #pragma GCC optimize("Ofast")
-// #pragma GCC target("tune=native")
+#pragma GCC target("tune=native")
 #pragma GCC optimize("unroll-loops")
 #include <bits/stdc++.h>
 using namespace std;
